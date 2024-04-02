@@ -36,6 +36,6 @@ finally, run ip script to filter ip from hosts. run following scripts ``` ./ip.s
 
 ## Conclusion 
 
-Do more Practice and Expert it!. <br>
+These scripts can varied depends on usages you can modify it. Do more Practice and Expert it!. <br>
 **3/23/2024** <br>
 Contributed By - Jord@n
